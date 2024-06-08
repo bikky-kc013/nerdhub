@@ -93,4 +93,4 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 Released in 2024.
 This project is under the [MIT license](./LICENSE).
 
-Made with love by [RafaelGoulartB](https://github.com/bikky-kc013) 🚀
+Made with love by [Bikky Kc](https://github.com/bikky-kc013) 🚀
