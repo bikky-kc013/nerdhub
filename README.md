@@ -1,19 +1,11 @@
 # Ecommerce API, Built with TypeScript & Express
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/bharat-kc-876b70265/">
-      <img alt="Bikky Kc" src="https://img.shields.io/badge/bharat-kc-876b7026?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-   <a href="https://github.com//bikky-kc013/nerdhub#readme">
-      <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-03B0E8.svg" />
-   </a>
-   <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/commit-activity">
-      <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-03B0E8.svg" />
-   </a>
-   <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/bharat-kc-876b7026?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-kc-876b70265/)
+[![Documentation](https://img.shields.io/badge/documentation-yes-03B0E8.svg)](https://github.com/bikky-kc013/nerdhub#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-03B0E8.svg)](https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/commit-activity)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/RafaelGoulartB/nodejs-ecommerce?color=03B0E8)
+![GitHub Contributors](https://img.shields.io/github/contributors/RafaelGoulartB/nodejs-ecommerce?color=03B0E8)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/RafaelGoulartB/nodejs-ecommerce?color=03B0E8)
 
 > Ecommerce API, built in TypeScript & Express
 
@@ -33,9 +25,7 @@
 ## ☕ Coffee Section
 If you like this project, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/bharathkc013">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow" alt="Buy Me A Coffee">
-</a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow)](https://www.buymeacoffee.com/bharathkc013)
 
 ## 📧 Contact
 Feel free to reach out: [bharathkc013@gmail.com](mailto:bharathkc013@gmail.com)
@@ -45,7 +35,8 @@ Feel free to reach out: [bharathkc013@gmail.com](mailto:bharathkc013@gmail.com)
 - [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [How to run](#construction_worker-how-to-run)
-- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Additional Docker Commands](#additional-docker-commands)
+- [Issues](#bug-issues)
 - [Contributing](#tada-contributing)
 - [License](#closed_book-license)
 
@@ -55,7 +46,7 @@ This project was made using the following technologies:
 
 - [Node.js](https://nodejs.org/en/) ([TypeScript](https://www.typescriptlang.org/docs/handbook/node.html))
 - [Express](https://expressjs.com/) ([TypeScript](https://www.npmjs.com/package/@types/express))
-- [Mysql](https://github.com/mysqljs/mysql) ([TypeScript](https://www.npmjs.com/package/@types/mysql))
+- [MySQL](https://github.com/mysqljs/mysql) ([TypeScript](https://www.npmjs.com/package/@types/mysql))
 
 ## :rocket: Features
 
@@ -71,7 +62,7 @@ This project was made using the following technologies:
 ### Install
 
 ```sh
-docker compose up
+docker-compose up
 ```
 
 # :bug: Issues
