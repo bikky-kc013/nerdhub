@@ -65,6 +65,21 @@ This project was made using the following technologies:
 docker-compose up
 ```
 
+## :construction_worker: Additional Docker Commands
+
+- **Build the Docker containers:**
+
+```sh
+docker-compose build
+```
+## :Stop the Docker containers
+
+```sh
+docker-compose down
+```
+
+
+
 # :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the the [nerdhub](https://github.com/bikky-kc013/nerdhub/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
