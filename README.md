@@ -72,6 +72,7 @@ This project was made using the following technologies:
 
 ```sh
 docker compose up
+```
 
 # :bug: Issues
 
