@@ -72,7 +72,7 @@ docker-compose up
 ```sh
 docker-compose build
 ```
-## :Stop the Docker containers
+## Stop the Docker containers
 
 ```sh
 docker-compose down
